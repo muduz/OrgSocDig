@@ -1,3 +1,1 @@
 # OrgSocDig
-
-Prova readme
